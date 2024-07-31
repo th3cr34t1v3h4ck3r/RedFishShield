@@ -24,9 +24,15 @@ Preferences (EEPROM)
 
 	15 user passwords (32 char)
 	1 admin password
- 
+
+Components
+
+	1 3mm led
+ 	2 buttons
+  	3 resistors
+
 # Building from Source
-If you want to customize RedFishTools or contribute to the project, you should be familiar with building RedFishShield from source.
+If you want to customize RedFishShield or contribute to the project, you should be familiar with building RedFishShield from source.
 * Install Arduino IDE. I've used arduino-ide_2.3.2_Linux_64bit.AppImage on Linux and Arduino IDE Windows successfully.
 * Compile and upload the project
 
