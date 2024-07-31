@@ -28,8 +28,11 @@ Preferences (EEPROM)
 Components
 
 	1 3mm led
- 	2 buttons
-  	3 resistors
+ 	2 buttons 6x6
+  	1 Reset resistor 10K
+        2 pull-up resistors 47K
+	1 LED resistor
+   
 
 # Building from Source
 If you want to customize RedFishShield or contribute to the project, you should be familiar with building RedFishShield from source.
