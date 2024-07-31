@@ -37,6 +37,10 @@ Schematics
 
 ![](https://github.com/th3cr34t1v3h4ck3r/RedFishShield/blob/main/redfishshield_schematic.png)
 
+# ToDo List
+	EEPROM for passwords
+ 	Security (Encryption)
+
 # Building from Source
 If you want to customize RedFishShield or contribute to the project, you should be familiar with building RedFishShield from source.
 * Install Arduino IDE. I've used arduino-ide_2.3.2_Linux_64bit.AppImage on Linux and Arduino IDE Windows successfully.
