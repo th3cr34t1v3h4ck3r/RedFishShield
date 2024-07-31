@@ -39,7 +39,7 @@ Schematics
 
 # ToDo List
 	EEPROM for passwords
- 	Security (Encryption)
+ 	Passwords' Encryption
 
 # Building from Source
 If you want to customize RedFishShield or contribute to the project, you should be familiar with building RedFishShield from source.
