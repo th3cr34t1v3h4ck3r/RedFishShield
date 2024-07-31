@@ -30,7 +30,7 @@ Components
 	1 3mm led
  	2 buttons 6x6
   	1 Reset resistor 10K
-        2 pull-up resistors 47K
+   	2 pull-up resistors 47K
 	1 LED resistor
    
 
