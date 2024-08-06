@@ -1,3 +1,8 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]([https://opensource.org/licenses/MIT](https://github.com/th3cr34t1v3h4ck3r/RedFishShield/blob/main/LICENSE))
+![](https://img.shields.io/badge/version-1.0-brightgreen)
+
+
+
 # RedFishShield
 Protect your accounts with the kiss of a RedFish.
 
@@ -42,8 +47,9 @@ Shields
 ![](https://github.com/th3cr34t1v3h4ck3r/RedFishShield/blob/main/redfishshields.jpg)
 
 # ToDo List
-	EEPROM for passwords
- 	Passwords' Encryption
+ 	EEPROM for passwords (1.1)
+  	Passwords from Serial USB Terminal(1.2)
+ 	Passwords' Encryption (1.3)
 
 # Building from Source
 If you want to customize RedFishShield or contribute to the project, you should be familiar with building RedFishShield from source.
