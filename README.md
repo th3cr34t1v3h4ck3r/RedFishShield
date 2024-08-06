@@ -51,6 +51,15 @@ Shields
   	Passwords from Serial USB Terminal(1.2)
  	Passwords' Encryption (1.3)
 
+# Relase Notes
+
+	1.0
+It is now possible to hardcode passwords directly into the code. For managing these passwords:
+
+**Select Password (Key 1)**: You can now select the desired password by pressing the 1 key.
+
+**Write Password (Key 2)**: Once a password is selected, you can automatically write it by pressing the 2 key.
+
 # Building from Source
 If you want to customize RedFishShield or contribute to the project, you should be familiar with building RedFishShield from source.
 * Install Arduino IDE. I've used arduino-ide_2.3.2_Linux_64bit.AppImage on Linux and Arduino IDE Windows successfully.
