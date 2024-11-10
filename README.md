@@ -42,12 +42,16 @@ Schematics
 
 Shields
 
+> prototype
 ![](https://github.com/th3cr34t1v3h4ck3r/RedFishShield/blob/main/redfishshield_prototype.jpeg)
 
+> printed
 ![](https://github.com/th3cr34t1v3h4ck3r/RedFishShield/blob/main/redfishshields.jpg)
 
+> solded
 ![](https://github.com/th3cr34t1v3h4ck3r/RedFishShield/blob/main/redifish_shield_1_0.jpeg)
 
+> comparison
 ![](https://github.com/th3cr34t1v3h4ck3r/RedFishShield/blob/main/redfish_shields_comparison.jpeg)
 
 # ToDo List
