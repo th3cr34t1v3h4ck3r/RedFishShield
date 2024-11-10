@@ -42,7 +42,13 @@ Schematics
 
 Shields
 
+![](https://github.com/th3cr34t1v3h4ck3r/RedFishShield/blob/main/redfishshield_prototype.jpeg)
+
 ![](https://github.com/th3cr34t1v3h4ck3r/RedFishShield/blob/main/redfishshields.jpg)
+
+![](https://github.com/th3cr34t1v3h4ck3r/RedFishShield/blob/main/redifish_shield_1_0.jpeg)
+
+![](https://github.com/th3cr34t1v3h4ck3r/RedFishShield/blob/main/redfish_shields_comparison.jpeg)
 
 # ToDo List
  	EEPROM for passwords (1.1)
